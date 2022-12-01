@@ -1,0 +1,15 @@
+C:\code\AulaGetHashCode\AulaGetHashCode\bin\Debug\net6.0\AulaGetHashCode.exe
+C:\code\AulaGetHashCode\AulaGetHashCode\bin\Debug\net6.0\AulaGetHashCode.deps.json
+C:\code\AulaGetHashCode\AulaGetHashCode\bin\Debug\net6.0\AulaGetHashCode.runtimeconfig.json
+C:\code\AulaGetHashCode\AulaGetHashCode\bin\Debug\net6.0\AulaGetHashCode.dll
+C:\code\AulaGetHashCode\AulaGetHashCode\bin\Debug\net6.0\AulaGetHashCode.pdb
+C:\code\AulaGetHashCode\AulaGetHashCode\obj\Debug\net6.0\AulaGetHashCode.csproj.AssemblyReference.cache
+C:\code\AulaGetHashCode\AulaGetHashCode\obj\Debug\net6.0\AulaGetHashCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\AulaGetHashCode\AulaGetHashCode\obj\Debug\net6.0\AulaGetHashCode.AssemblyInfoInputs.cache
+C:\code\AulaGetHashCode\AulaGetHashCode\obj\Debug\net6.0\AulaGetHashCode.AssemblyInfo.cs
+C:\code\AulaGetHashCode\AulaGetHashCode\obj\Debug\net6.0\AulaGetHashCode.csproj.CoreCompileInputs.cache
+C:\code\AulaGetHashCode\AulaGetHashCode\obj\Debug\net6.0\AulaGetHashCode.dll
+C:\code\AulaGetHashCode\AulaGetHashCode\obj\Debug\net6.0\refint\AulaGetHashCode.dll
+C:\code\AulaGetHashCode\AulaGetHashCode\obj\Debug\net6.0\AulaGetHashCode.pdb
+C:\code\AulaGetHashCode\AulaGetHashCode\obj\Debug\net6.0\AulaGetHashCode.genruntimeconfig.cache
+C:\code\AulaGetHashCode\AulaGetHashCode\obj\Debug\net6.0\ref\AulaGetHashCode.dll
